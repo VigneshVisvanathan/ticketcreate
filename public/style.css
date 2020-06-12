@@ -1,0 +1,28 @@
+p {
+  padding: 10px;
+  background-image: linear-gradient(to right, #c26498,#522157)
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  width: 300px;
+}
+
+.Ticket-details{
+
+  height: 100px;
+  width: 900px;
+}
+
+.button{
+  height: 50px;
+  width: 100px;
+}
+
+.Ticket-summary{
+  width: 900px;
+}
